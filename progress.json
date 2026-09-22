@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:17:33.979Z",
+  "generated_at": "2026-09-28T06:17:36.323Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -65,6 +65,32 @@
       "last_pushed_at": "2026-09-19T22:41:12.591Z",
       "language": "python",
       "lines": 6
+    },
+    "problem:41": {
+      "kind": "problem",
+      "id": "41",
+      "title": "Simple Convolutional 2D Layer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/41",
+      "path": "problems/0041-simple-convolutional-2d-layer",
+      "first_solved_at": "2026-09-22T17:21:22.183Z",
+      "last_pushed_at": "2026-09-22T17:21:22.183Z",
+      "language": "python",
+      "lines": 25
+    },
+    "problem:47": {
+      "kind": "problem",
+      "id": "47",
+      "title": "Implement Gradient Descent Variants with MSE Loss",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/47",
+      "path": "problems/0047-implement-gradient-descent-variants-with-mse-loss",
+      "first_solved_at": "2026-09-22T19:20:11.890Z",
+      "last_pushed_at": "2026-09-22T19:20:11.890Z",
+      "language": "python",
+      "lines": 66
     }
   }
 }
