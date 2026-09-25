@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T06:17:36.323Z",
+  "generated_at": "2026-09-28T06:17:38.195Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -91,6 +91,58 @@
       "last_pushed_at": "2026-09-22T19:20:11.890Z",
       "language": "python",
       "lines": 66
+    },
+    "problem:49": {
+      "kind": "problem",
+      "id": "49",
+      "title": "Implement Adam Optimization Algorithm",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/49",
+      "path": "problems/0049-implement-adam-optimization-algorithm",
+      "first_solved_at": "2026-09-25T17:24:36.721Z",
+      "last_pushed_at": "2026-09-25T17:24:36.721Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:54": {
+      "kind": "problem",
+      "id": "54",
+      "title": "Implementing a Simple RNN",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/54",
+      "path": "problems/0054-implementing-a-simple-rnn",
+      "first_solved_at": "2026-09-25T17:28:15.092Z",
+      "last_pushed_at": "2026-09-25T17:28:15.092Z",
+      "language": "python",
+      "lines": 13
+    },
+    "problem:77": {
+      "kind": "problem",
+      "id": "77",
+      "title": "Calculate Performance Metrics for a Classification Model",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/77",
+      "path": "problems/0077-calculate-performance-metrics-for-a-classification-model",
+      "first_solved_at": "2026-09-25T17:41:34.179Z",
+      "last_pushed_at": "2026-09-25T17:41:34.179Z",
+      "language": "python",
+      "lines": 27
+    },
+    "problem:87": {
+      "kind": "problem",
+      "id": "87",
+      "title": "Adam Optimizer",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/87",
+      "path": "problems/0087-adam-optimizer",
+      "first_solved_at": "2026-09-25T17:45:29.342Z",
+      "last_pushed_at": "2026-09-25T17:45:29.342Z",
+      "language": "python",
+      "lines": 23
     }
   }
 }
