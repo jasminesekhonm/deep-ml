@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**11** solved · 11 problems · 0 labs · 0 math
+**12** solved · 12 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,6 +17,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-09-19 | [solution](problems/0003-reshape-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-09-19 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Adam Optimizer](https://www.deep-ml.com/problems/87) | medium | 2026-09-25 | [solution](problems/0087-adam-optimizer) |
+| [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-26 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-19 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-09-25 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
