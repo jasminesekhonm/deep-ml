@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**12** solved · 12 problems · 0 labs · 0 math
+**15** solved · 15 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,8 +20,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Correlation Matrix](https://www.deep-ml.com/problems/37) | medium | 2026-09-26 | [solution](problems/0037-calculate-correlation-matrix) |
 | [Calculate Eigenvalues of a Matrix](https://www.deep-ml.com/problems/6) | medium | 2026-09-19 | [solution](problems/0006-calculate-eigenvalues-of-a-matrix) |
 | [Calculate Performance Metrics for a Classification Model](https://www.deep-ml.com/problems/77) | medium | 2026-09-25 | [solution](problems/0077-calculate-performance-metrics-for-a-classification-model) |
+| [Divide Dataset Based on Feature Threshold](https://www.deep-ml.com/problems/31) | medium | 2026-09-27 | [solution](problems/0031-divide-dataset-based-on-feature-threshold) |
+| [Generate Random Subsets of a Dataset](https://www.deep-ml.com/problems/33) | medium | 2026-09-27 | [solution](problems/0033-generate-random-subsets-of-a-dataset) |
 | [Implement Adam Optimization Algorithm](https://www.deep-ml.com/problems/49) | medium | 2026-09-25 | [solution](problems/0049-implement-adam-optimization-algorithm) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-09-22 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-27 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-25 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-22 | [solution](problems/0041-simple-convolutional-2d-layer) |
 
