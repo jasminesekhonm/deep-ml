@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**17** solved · 17 problems · 0 labs · 0 math
+**18** solved · 18 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-09-22 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Implement Layer Normalization for Sequence Data](https://www.deep-ml.com/problems/109) | medium | 2026-09-27 | [solution](problems/0109-implement-layer-normalization-for-sequence-data) |
 | [Implement Long Short-Term Memory (LSTM) Network](https://www.deep-ml.com/problems/59) | medium | 2026-09-28 | [solution](problems/0059-implement-long-short-term-memory-lstm-network) |
+| [Implement PReLU Forward and Backward Pass](https://www.deep-ml.com/problems/98) | medium | 2026-09-28 | [solution](problems/0098-implement-prelu-forward-and-backward-pass) |
 | [Implement Self-Attention Mechanism](https://www.deep-ml.com/problems/53) | medium | 2026-09-28 | [solution](problems/0053-implement-self-attention-mechanism) |
 | [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-25 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-22 | [solution](problems/0041-simple-convolutional-2d-layer) |
