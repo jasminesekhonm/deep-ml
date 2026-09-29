@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 27 problems · 0 labs · 0 math
+**28** solved · 28 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -37,6 +37,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [LoRA: Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/222) | medium | 2026-09-28 | [solution](problems/0222-lora-low-rank-adaptation-forward-pass) |
 | [QLoRA: Quantized Low-Rank Adaptation Forward Pass](https://www.deep-ml.com/problems/223) | medium | 2026-09-28 | [solution](problems/0223-qlora-quantized-low-rank-adaptation-forward-pass) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-09-22 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [A KV Cache for Autoregressive Decoding](https://www.deep-ml.com/problems/1345) | hard | 2026-09-29 | [solution](problems/1345-a-kv-cache-for-autoregressive-decoding) |
 | [Build a Transformer Encoder Layer](https://www.deep-ml.com/problems/491) | hard | 2026-09-28 | [solution](problems/0491-build-a-transformer-encoder-layer) |
 | [Implement Multi-Head Attention](https://www.deep-ml.com/problems/94) | hard | 2026-09-29 | [solution](problems/0094-implement-multi-head-attention) |
 
