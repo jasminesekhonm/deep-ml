@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:21:39.092Z",
+  "generated_at": "2026-09-29T17:22:14.714Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -361,7 +361,7 @@
       "url": "https://www.deep-ml.com/problems/1345",
       "path": "problems/1345-a-kv-cache-for-autoregressive-decoding",
       "first_solved_at": "2026-09-29T17:21:37.343Z",
-      "last_pushed_at": "2026-09-29T17:21:37.343Z",
+      "last_pushed_at": "2026-09-29T17:22:14.078Z",
       "language": "python",
       "lines": 35
     }
